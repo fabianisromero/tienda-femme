@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital@0;1&family=Roboto:ital@1&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-image: url(../img/fondo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Poppins',sans-serif;
+    font-weight: bolder;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+main{
+    display: flex;
+    padding: 5px;
+}
+.icono:hover{
+transform: scale(1.2);
+transition-property: all;
+transition-duration: 2s;
+}
+.icono1:hover{
+    transform: scale(1.2);
+    transition-property: all;
+    transition-duration: 2s;
+}
+.icono2:hover{
+    transform: scale(1.2);
+    transition-property: all;
+    transition-duration: 2s;
+}
+.contenido, .contenido1{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.icono, .icono1, .icono2{
+    width: 80px;
+    height: 80px;
+    border: none;
+}
+header{
+    background: linear-gradient( rgb(194, 194, 186) 1%, rgb(220, 226, 233) 1%, rgb(153, 152, 155) 1%, rgba(155, 155, 151, 0.455) 1%);
+    list-style-type: none;
+    margin: 30px;
+    padding: 30px;
+    display: grid;
+    justify-content: center;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 15px;
+}
+a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: rgb(9, 11, 12);
+    font-size: 30px;
+    display: flex;
+}
+
+.logo{
+    width: 300px;
+    height: 300px;
+    padding: 5px;
+    margin: 0px;
+    border: none;
+}
+.logoimg{
+    display: grid;
+}
+.logo1{
+    margin-top: 0px;
+    border: none;
+}
+.logo:hover{
+    transform: scale(1.2);
+    transition-property: all;
+    transition-duration: 2s;
+}
+.logo1:hover{
+    transform: scale(1.2);
+    transition-property: all;
+    transition-duration: 2s;
+}
+.contenido1{
+    display: grid;
+    justify-content: center;
+}
+p{
+    color:black;
+    padding:30px;
+    font-size: 30px;
+    grid-template-columns: 1fr;
+}
+.video{
+    display: grid;
+    justify-content: center;
+}
+h1{
+    padding: 10px;
+    font-size: 60px;
+    text-align: center;
+}
+img{
+    display: grid;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border-radius: 20px;
+    border: 5px solid grey;
+}
+div img{
+    width: 320px;
+    height: 300px;
+    margin: 80px;
+    flex-direction: column;
+}
+section{
+    margin: 40px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+h1{
+    grid-area: h1;
+}
+p{
+    grid-area: p;
+}
+.contenido{
+    grid-area: contenido;
+}
+.productos{
+    grid-area: productos;
+}
+.descripcion{
+    grid-area: descripcion;
+}
+.p:hover{
+    transform: scale(1.2);
+    transition-property: all;
+    transition-duration: 2s;
+}
+.p1:hover{
+    transform: scale(1.2);
+    transition-property: all;
+    transition-duration: 2s;
+}
+.p2:hover{
+    transform: scale(1.2);
+    transition-property: all;
+    transition-duration: 2s;
+}
+.p3:hover{
+    transform: scale(1.2);
+    transition-property: all;
+    transition-duration: 2s;
+}
+.p4:hover{
+    transform: scale(1.2);
+    transition-property: all;
+    transition-duration: 2s;
+}
+.p5:hover{
+    transform: scale(1.2);
+    transition-property: all;
+    transition-duration: 2s;
+}
+.p6:hover{
+    transform: scale(1.2);
+    transition-property: all;
+    transition-duration: 2s;
+}
+.p7:hover{
+    transform: scale(1.2);
+    transition-property: all;
+    transition-duration: 2s;
+}
+.logo{
+    grid-area: logo;
+}
+img{
+    grid-area: img;
+}
+@media (min-width: 1024px){
+    .productos{
+        margin: 0;
+        grid-template-columns: 1fr 1fr;
+        grid-template-areas:
+        "img img"
+        "img img"
+        "img img";
+    }
+}
+@media (min-width: 1200px){
+    .productos{
+        margin: 0;
+        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-areas:
+        "img img img"
+        "img img img"
+        "img img img";
+    }
+}

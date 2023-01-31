@@ -1,0 +1,484 @@
+02:17:29	Pablo Adorno:	🙈
+02:17:36	Lautaro Rodriguez Loiza:	buenas tardes!
+02:17:38	Ernesto Mendez:	ni idea que es
+02:17:53	Pablo Adorno:	es necesario esto?
+02:17:56	Pablo Adorno:	jaaa
+02:17:57	Ernesto Mendez:	Obvio
+02:18:19	H. Alejandro Menzi:	Buenas! Perdón la hora
+02:18:22	(tutora) Gonzalez Ayelen:	El que no tiene git no tuvo infancia jeje
+02:18:28	Pablo Adorno:	uh Ale te puse ausente
+02:18:53	Nicolás Guzmán:	soy tercermundista xd
+02:19:11	fabian romero:	buenas
+02:19:40	Johanna Padilla:	Hola... Si supiéramos no estaríamos en este curso no? jajaja
+02:20:04	Luciano Fonseca:	esos son panflines diría mi abuela
+02:20:18	MARIA DE LOS ANGELES LICUDIS:	Yo realmente no se nada de nada
+02:20:27	Guido Signorello:	Somos 86 fuaa el diego
+02:20:41	Johanna Padilla:	Yo por ejemplo hay cosas que ya sabia, pero realmente me sirve mucho para reforzar o para ver las cosas desde otro punto
+02:21:02	Osvaldo Carrizo:	yo no se quien soy desde que entré al curso
+02:21:06	Ornella Sablic:	Hola chicos! hola Lu!
+02:21:20	Lucas Quinteros:	Buenas tardes para todos
+02:24:30	Ernesto Mendez:	comparar
+02:24:55	Marcos Gasiorowski:	esta enchufado tinto eh, cuidado
+02:25:02	Ernesto Mendez:	jajaja
+02:25:07	H. Alejandro Menzi:	Onfire
+02:25:09	Juan Pablo Ciceri:	no lo cebenn
+02:25:13	Juan Pablo Ciceri:	jaja
+02:27:21	Manuel Torres:	es tipo un repositorio por así decirlo?
+02:27:36	Lucas Quinteros:	buenas tardes para todos
+02:27:50	David Pérez Garcia:	buenas tardes
+02:29:35	Pablo Adorno:	por qué 2 css?
+02:29:47	Esteban Camacho:	podes repetir esa diferencia porque se cortó la comunicación justo
+02:29:55	(tutora) Gonzalez Ayelen:	Es ilustrativo
+02:29:58	Ornella Sablic:	si es verdad que se corto
+02:30:08	(tutora) Gonzalez Ayelen:	Comento que no es lo mismo una versión que una rama
+02:30:10	Sergio Poleiko:	mal
+02:30:43	Ernesto Mendez:	va
+02:30:43	(tutora) Gonzalez Ayelen:	ok
+02:30:44	Ornella Sablic:	va bien
+02:30:45	Manuel Torres:	va bien
+02:30:45	Nicolás Guzmán:	va bien
+02:30:47	MARIA DE LOS ANGELES LICUDIS:	de 10
+02:30:50	Sergio Poleiko:	va bien
+02:30:52	Marcos Gasiorowski:	mira Orne ya tiene trabajo con gachi y pachi
+02:30:55	Juan Montivero:	orne acomodada
+02:31:00	Ornella Sablic:	jajaja
+02:31:16	Kevin Araque:	bueeenaaasss
+02:31:22	fabian romero:	asi cualquiera aprueba
+02:31:57	Esteban Camacho:	Se entendió perfecto ahora. Muchas gracias, Luciana.
+02:33:54	David Pérez Garcia:	creo que se ve mas en los videojuegos y sus actualizaciones
+02:33:57	Sebastián Cea:	nunca sale bien, me paso en un proyecto final
+02:35:06	David Pérez Garcia:	por eso existen versiones de prueba
+02:35:43	Nicolás Guzmán:	un juego alfa o beta
+02:35:49	Nicolás Guzmán:	algo así?
+02:36:06	David Pérez Garcia:	si yo también pense lo mismo
+02:36:17	David Pérez Garcia:	y por eso son casi siempre son gratis jajajjaj
+02:36:30	Nicolás Guzmán:	minecraft 0.14.7
+02:36:33	Nicolás Guzmán:	xd
+02:36:57	David Pérez Garcia:	cuando quieras
+02:39:54	David Pérez Garcia:	profe, usted piensa que los códigos deberían tener derecho de autor ?
+02:40:33	Ornella Sablic:	claro tiene logica
+02:40:42	Ornella Sablic:	lo de git
+02:40:45	Ornella Sablic:	y github
+02:42:10	Ornella Sablic:	que grosa Lu
+02:42:17	Mariana Alvizúa:	Bien, profe!!
+02:42:18	David Pérez Garcia:	gracias profe !, que bien explicado vale
+02:42:30	David Pérez Garcia:	esto lleva otra after class
+02:42:35	David Pérez Garcia:	la vida de lu
+02:42:38	Ornella Sablic:	jaja
+02:42:52	Nicolás Guzmán:	una saga
+02:43:03	Ornella Sablic:	cuando cumplis años Lu?
+02:43:15	Ornella Sablic:	ah yo el 14
+02:43:22	Ornella Sablic:	see
+02:43:26	Ernesto Mendez:	mi mujer el 3. un amor (ponele)
+02:43:28	Ernesto Mendez:	jajaja
+02:43:32	Luciano Fonseca:	Agaunte los de LEO 😎
+02:43:41	Ernesto Mendez:	jajaja
+02:43:41	Ornella Sablic:	si obvio jaja
+02:43:42	(tutora) Gonzalez Ayelen:	Si Lu
+02:43:42	H. Alejandro Menzi:	Uff...
+02:43:44	Amaya Renzo:	jaja
+02:43:53	Emmanuel Saucedo:	me encanta ☺️
+02:43:56	Profe Lu❤:	https://git-scm.com/
+02:44:04	Romina Chena:	14 de enero yo
+02:44:14	Romina Chena:	vamooos
+02:44:20	(tutora) Gonzalez Ayelen:	Aguante escorpio viejo jeje yo no soy pero los banco fuerte
+02:44:28	Osvaldo Carrizo:	aguante libra
+02:44:34	Ornella Sablic:	vaos aye jajaja
+02:44:34	Nicolás Guzmán:	vamo libra
+02:44:39	German Zovich:	Buenas tardes profe, disculpe la tardanza
+02:44:42	Nicolás Guzmán:	octubre el mejor mes
+02:44:48	Johanna Padilla:	Tauro el mejor jaja
+02:44:54	Osvaldo Carrizo:	olvidate
+02:44:55	Pablo Adorno:	tauro obvio
+02:44:55	Nicolas Cisnero:	yo soy de piscis igual que justin
+02:44:59	Marcos Gasiorowski:	me equivoque de curso? o estamos en astrología?
+02:45:03	German Zovich:	Ni idea jaja
+02:45:04	David Pérez Garcia:	yo la verdad es que soy un pescado
+02:45:06	Pablo Adorno:	marcossss
+02:45:08	Pablo Adorno:	jaaa
+02:45:09	David Pérez Garcia:	asi que no mucho
+02:45:10	Marcos Gasiorowski:	que paso?
+02:45:13	Ernesto Mendez:	YO SOY DE BOCAAAAAAAAAA
+02:45:18	H. Alejandro Menzi:	los atros alineados para entender
+02:45:18	Ornella Sablic:	yo no le doy bola a los signos igual jaja
+02:45:19	H. Alejandro Menzi:	jajajaja
+02:45:22	Osvaldo Carrizo:	yo soy campeón mundiao
+02:45:22	H. Alejandro Menzi:	astros *
+02:45:23	Nicolás Guzmán:	VAMOOO BOCAAA
+02:45:32	Ernesto Mendez:	EAAA
+02:45:44	(tutora) Gonzalez Ayelen:	sisis
+02:45:50	Ornella Sablic:	taja ahí aye? jaja
+02:46:27	Ernesto Mendez:	Los pobres
+02:47:13	Ernesto Mendez:	es cierto me quise armar una compu y el presupuesto me lleno de preguntas
+02:47:16	Pablo Adorno:	raro coder publicando contenido desactualizado
+02:47:16	Pablo Adorno:	jaaa
+02:47:17	Nicolás Guzmán:	tercermundistas*
+02:47:35	Ornella Sablic:	desclasados x)
+02:47:45	Ernesto Mendez:	jajaj mal
+02:47:47	Marcos Gasiorowski:	el mio no se ve igual
+02:48:00	Marcos Gasiorowski:	tengo miedo
+02:48:02	H. Alejandro Menzi:	vos dale next
+02:48:05	H. Alejandro Menzi:	jajajaja
+02:48:28	H. Alejandro Menzi:	Lu, podes volver para atrás?
+02:48:31	H. Alejandro Menzi:	el anterior?
+02:48:35	Osvaldo Carrizo:	yo no lo descargo porque ya lo tengo
+02:48:44	Profe Lu❤:	https://docs.google.com/presentation/d/19WlSvyXdRxupvP2kSJ1voXsUoooHkCl0rDaywrgbN7s/edit#slide=id.g13fe25858ac_0_46
+02:48:45	Manuel Torres:	visual estudio para editor default?
+02:48:55	Manuel Torres:	(de git)
+02:48:59	Marcos Gasiorowski:	yo le di full next, por el momento no exploto nada
+02:49:24	fabian romero:	el segundo no te deja avanzar igual
+02:49:25	Manuel Torres:	la que no es insider
+02:49:25	David Pérez Garcia:	listo
+02:49:33	H. Alejandro Menzi:	el que no dice insiders
+02:49:50	Federico Falero:	genial
+02:50:09	David Pérez Garcia:	se parece programación C
+02:50:11	Pablo Adorno:	use Vim (the ubiquitous text editor) as Git's default editor?
+02:50:58	Martin Fueyo:	Lu agrgaron un moton de ociones nuevas que no están en las ppt´s
+02:51:13	Esteban Gonzalez Dumrauf:	tal cual, hay una banda
+02:51:23	H. Alejandro Menzi:	Martín, dale a todo next
+02:51:25	H. Alejandro Menzi:	ya fue
+02:51:26	Marcos Gasiorowski:	aguante Windows
+02:51:30	Manuel González Alayes:	posta, hay q actualizar la guía
+02:51:32	H. Alejandro Menzi:	dsp lo configuramos cuando lo usemos
+02:51:40	H. Alejandro Menzi:	Pero si, habría que actualizarla
+02:51:45	Profe Lu❤:	https://git-scm.com/download/mac
+02:51:49	Pablo Adorno:	use visual studio code as Git's default editor?
+02:51:56	(tutora) Gonzalez Ayelen:	https://sourceforge.net/projects/git-osx-installer/files/
+02:52:08	Mariana Alvizúa:	Estoy usando brew pero no me funciona
+02:52:11	David Pérez Garcia:	32 grados, que bueno esta el clima
+02:52:46	Profe Lu❤:	https://brew.sh/
+02:53:11	Marcos Gasiorowski:	"un toque"
+02:53:40	Pablo Adorno:	grosa <3
+02:54:52	Ernesto Mendez:	No lo instale. Mañana vere bien. porque no se que opciones poner
+02:54:53	María Renata Lara Zúñiga:	Holaaaa, recién pude conectarme a la clase perdón 😭😭
+02:54:58	Manuel Torres:	windows users 🗿
+02:55:02	David Pérez Garcia:	totoro jajajj
+02:55:42	Nicolás Guzmán:	alto juego el age of empire
+02:55:55	David Pérez Garcia:	solo el dos
+02:56:00	Brian Castaño:	aguante el Windows para pobres jaja
+02:56:16	Ernesto Mendez:	SEE
+02:56:22	Ornella Sablic:	Lu no pasa nada si tengo la versión 2.38 y no la ultima?
+02:56:29	Ornella Sablic:	de git
+02:56:43	Profe Lu❤:	https://docs.google.com/document/d/1NQxHg7kW74c6ZwakUbmAk84rrvXXVW3oXc4dpC2b-KU/edit
+02:56:45	Juan Facundo Alos:	Uhh, qué bueno. Gracias, Lu!
+02:56:54	Federico Falero:	gracias
+02:57:08	Ornella Sablic:	ah ok
+02:57:32	(Tutora)Gonzalez Ayelen:	https://www.atlassian.com/es/git/tutorials/install-git
+02:57:50	Juan Pablo Ciceri:	nada q ver la versión hay cosa q no se q poner
+02:58:45	(Tutora)Gonzalez Ayelen:	Este es el link de las versiones en mac https://sourceforge.net/projects/git-osx-installer/files/
+02:59:00	Juan Pablo Ciceri:	de Windows todo next le puse
+02:59:08	Juan Pablo Ciceri:	20 ventanas de instalación mas o menos ja
+02:59:22	Ernesto Mendez:	yo estoy igual. pero no lo instale
+03:00:02	Profe Lu❤:	https://docs.google.com/document/d/1vyZE8hkxcK734haL6TQ-xOA_FUN14V1vkPcps0gkZyE/edit?usp=sharing
+03:01:37	Ornella Sablic:	y que onda la consola de Windows?
+03:01:49	Ornella Sablic:	ok
+03:02:11	Nehuen Garcia:	en mi experiencia no es bueno usar visual estudio, lo que puede llegar a pasar es que te soluciona conflictos que después pueden llegar a ser un problema.
+03:02:28	Marcos Gasiorowski:	aca pestañas y no sabes por que Lu esta explicando la teoría del bigbang
+03:02:42	(Tutora) Carolina Amoia:	jajajaa
+03:03:28	Esteban Camacho:	Lo que abro es una carpeta nueva a la cual le pongo cualquier nombre, no?
+03:03:34	Marcos Gasiorowski:	en el mio no aparece (master)
+03:03:37	Ornella Sablic:	nooo jaja
+03:03:48	David Pérez Garcia:	es que no somos master aun
+03:03:53	Esteban Camacho:	Ah ok
+03:04:20	Manuel González Alayes:	igual donde ves lo q pusiste en el Git? como se dio cuenta el chico? jaja
+03:04:25	Ernesto Mendez:	llegaron los aliens
+03:04:33	Marcos Gasiorowski:	la ambulancia a full
+03:05:06	Ornella Sablic:	que seria git GUI a diferencia de git bash (la consola)?
+03:05:34	Profe Lu❤:	cd C:\Users\Ususario\Desktop\box-model-33170-main
+03:06:00	Ornella Sablic:	ok
+03:06:07	Ornella Sablic:	ejor no tocarjaja
+03:06:14	Diego Canseco:	gui significa graphic user interface
+03:06:15	Marcos Gasiorowski:	si ejor
+03:06:29	Diego Canseco:	es para tener una vista grafica en lugar de linea de comandos, pero es mucho mas limitado siempre
+03:07:06	Ornella Sablic:	ah gracias Diego!
+03:07:53	Marcos Gasiorowski:	le doy enter y explota
+03:07:57	Ismael Hernan Uriarte:	se salto un espacio entre global y user  me parece profe
+03:08:05	Nicolás Guzmán:	pantallazo azul
+03:08:25	Ismael Hernan Uriarte:	osea no pusiste un espacio demas¿
+03:08:27	David Pérez Garcia:	como pongo el @
+03:08:32	Brian Castaño:	esta bien
+03:08:32	Diego Canseco:	si ya tienen GitHub, pongan el que tienen en GitHub, sino se van a tener que abrir otra cuenta
+03:08:33	Ernesto Mendez:	ALT 64
+03:09:24	Marcos Gasiorowski:	Tinto
+03:09:26	fabian romero:	jajaja
+03:09:27	Ornella Sablic:	jajaja
+03:09:31	Brian Castaño:	jajaja
+03:09:38	Ornella Sablic:	pepita la pistolera...
+03:09:48	Nicolás Guzmán:	la joaqui
+03:09:54	Ornella Sablic:	la yeni
+03:11:11	Nicolás Guzmán:	se murió, mi ultima neurona
+03:11:23	Ernesto Mendez:	pero Gmail es .com
+03:11:24	Brian Castaño:	cosas que pasan
+03:11:27	Brian Castaño:	jaja
+03:12:04	Marcos Gasiorowski:	lo vuelvo a configurar usando los mismos comandos?
+03:12:09	Ernesto Mendez:	entre que es un quilombo esto e internet anda como el pais… No va a pasar nada bueno de esto
+03:12:27	Marcos Gasiorowski:	como cambio de nombre? jajaja
+03:12:43	Ernesto Mendez:	en el registro civil
+03:12:48	Ornella Sablic:	baja la ansiedad arcos  jaja
+03:12:51	Ornella Sablic:	*marcos
+03:13:03	Marcos Gasiorowski:	te funca mal la
+03:13:09	Marcos Gasiorowski:	M orne
+03:13:28	Ornella Sablic:	escribi muy rápido je
+03:13:44	Juan Pablo Ciceri:	se entre corta no?
+03:13:47	Juan Pablo Ciceri:	o soy yo
+03:13:50	Ornella Sablic:	un poquito
+03:13:50	Ernesto Mendez:	Yo solo la veo como el opi?
+03:13:50	(Tutora)Gonzalez Ayelen:	quizas cambias de pc y justo esa persona configuro, raro pero podría ser
+03:13:50	Nicolás Guzmán:	si
+03:13:52	Brian Castaño:	si
+03:13:53	Marcos Gasiorowski:	si
+03:13:53	Manuel Torres:	se corta un poco
+03:13:53	Diego Canseco:	si un toque
+03:13:53	(Tutora)Gonzalez Ayelen:	si
+03:13:53	Juan Montivero:	un poco
+03:13:55	Mariana Alvizúa:	sep
+03:13:55	Nicolás Guzmán:	se corta
+03:13:57	(Tutora) Carolina Amoia:	q veces
+03:13:58	Jacobo Tomas Lerner Rojas:	un toque
+03:13:58	Lucas Soria:	si
+03:13:58	Ernesto Mendez:	ahh ok. somos todos
+03:13:58	Santiago Sordi:	un poco pero va bien
+03:13:59	Johanna Padilla:	Se corta un poquito de a ratos
+03:14:01	Nicolas Cisnero:	si
+03:14:01	Luciano Fonseca:	algunas veces profe pero entiende igual
+03:14:02	Santiago Sordi:	tranqui
+03:14:02	Ismael Hernan Uriarte:	si se entre corta de a rato
+03:14:09	Santiago Sordi:	si se entiende todo
+03:14:52	Ornella Sablic:	el comando mas amigable jaja
+03:17:43	Ornella Sablic:	entre comillas
+03:17:58	Marcos Gasiorowski:	"te deje plata para las milas"
+03:18:24	Ornella Sablic:	ah tenes plata vos
+03:19:02	Luciano Fonseca:	no hablo taka taka
+03:19:20	Marcos Gasiorowski:	milas de pesheto
+03:19:30	Ernesto Mendez:	que rico
+03:20:55	Ernesto Mendez:	NOOOO. Todo re normal
+03:21:00	Ernesto Mendez:	😁
+03:21:02	Brian Castaño:	con esto puedo hackear un banco?
+03:21:16	Manuel Torres:	venimos de 10 🗿👍
+03:21:20	Tomás Alós:	Si profe
+03:21:25	Ornella Sablic:	si Lu
+03:21:25	Luciano Fonseca:	se entiende profe
+03:21:26	Brian Castaño:	si
+03:21:27	Alex Diego Alzú:	si
+03:21:27	Ernesto Mendez:	SI
+03:21:28	Lautaro Rodriguez Loiza:	sip
+03:21:28	Mauricio Atadia:	Si perfecto!
+03:21:37	Marcos Gasiorowski:	si pero de donde saco el link para subirlo?
+03:21:39	Christian Pereyra:	sii ya quiero arrancar a usarlo
+03:21:40	David Pérez Garcia:	lu
+03:21:42	Nicolas Cisnero:	en mensaje entonces es siempre first commit?
+03:21:55	David Pérez Garcia:	tengo problemas con poner el @, pruebo alt 64
+03:21:58	Luciano Fonseca:	profe se puede aprender a hackear con git?
+03:21:59	David Pérez Garcia:	pero no me lo lee
+03:22:13	Ornella Sablic:	no te adelantes marcos
+03:22:16	Ornella Sablic:	jaja
+03:22:31	Marcos Gasiorowski:	no me grites Orne
+03:22:44	David Pérez Garcia:	creo
+03:22:44	Ornella Sablic:	no jaja
+03:22:51	David Pérez Garcia:	ya lo intente pero no funciona jajaj
+03:23:02	Ornella Sablic:	lo que estamos haciendo ahora es crear un repositorio local
+03:23:11	Juan Montivero:	alt gr + "q" david
+03:23:13	Marcos Gasiorowski:	cache, tarde pero cache jajaj
+03:23:17	Romina Chena:	Alt q o alt 2
+03:23:18	Liceth Guzman:	yo no pude instalarlo
+03:23:29	Marcos Gasiorowski:	alt +s+f+gh+r+w+v+e+v+s+a
+03:23:35	Liceth Guzman:	win
+03:23:36	David Pérez Garcia:	ya va gente
+03:23:45	David Pérez Garcia:	es que ya entiendo
+03:23:46	Liceth Guzman:	me volvió a google
+03:23:46	Juan Montivero:	sino agarra la tableta grafica y dibujar el @
+03:23:52	David Pérez Garcia:	mi teclado no tiene block de num
+03:24:06	Christian Pereyra:	yo meinstale GitHub y después me di cuenta que no era ese xd
+03:24:08	Luciano Fonseca:	por alguna razón cuando habro git bash se me apagan las luces del teclado 😂
+03:24:14	Liceth Guzman:	vale
+03:24:15	Pablo Adorno:	entonces alt GR+Fn+Q o el 2
+03:24:20	(Tutora)Gonzalez Ayelen:	tendra algo que ver el año de su pc?
+03:24:27	David Pérez Garcia:	bueno ya copie y pegue jajaj
+03:24:29	(Tutora)Gonzalez Ayelen:	Aveces hay que buscar versiones viejitas
+03:24:32	Juan Montivero:	Luciano, tirale agua bendita
+03:24:44	Ornella Sablic:	no quédense en la 10
+03:24:48	David Pérez Garcia:	yo tengo Windows 11
+03:24:51	David Pérez Garcia:	y va bien
+03:24:56	Nehuen Garcia:	si o si
+03:25:02	Nehuen Garcia:	11 no es 64?
+03:25:08	Pablo Adorno:	si claro
+03:25:12	Manuel Torres:	yo tengo win 11
+03:25:14	Manuel Torres:	es god
+03:25:16	Ornella Sablic:	yo por las dudas no e cabio jeje
+03:25:22	Ornella Sablic:	*cambio
+03:25:33	Manuel González Alayes:	yo hasta q no pase 1 o 2 años no me cambio al 11 jaja
+03:25:37	David Pérez Garcia:	si tiene 11, debería tener 64
+03:25:38	Christian Pereyra:	cual es su critica del W11 profe?
+03:25:39	Pablo Adorno:	W11 lo uso hace muchísimo y anda bien
+03:25:40	(Tutora)Gonzalez Ayelen:	por eso las versiones viejas andan mejor
+03:25:41	Johanna Padilla:	Mi esposo lo usa y le guste el 11, pero yo prefiero malo conocido jaja
+03:25:47	Christian Pereyra:	estuve a pco de no pasaarme
+03:26:04	Nicolás Guzmán:	win98 bien atr
+03:26:09	Juan Montivero:	yo no me pase del win7 hasta que me amenazo windows
+03:26:16	Manuel González Alayes:	Jajajaj
+03:26:25	Ornella Sablic:	yo use Windows 7 hasta hace 2 años jaja
+03:26:25	Manuel Torres:	win 11 cuando salio no era para uso diario, era problema tras problema jaja
+03:26:26	Pablo Adorno:	de una, siempre es mejor esperar que se estabilicen las versiones a fuerza de quejas de la gente, como siempre windows
+03:26:33	Johanna Padilla:	Si si cuando recién salio tuvo mil problemas mi esposo, eso es cierto.
+03:27:04	David Pérez Garcia:	vale
+03:27:09	Manuel González Alayes:	Continuara...
+03:27:10	Pablo Adorno:	genial
+03:27:52	Ornella Sablic:	aye te pido un tema ya que es la ultima clase
+03:28:00	Ornella Sablic:	y no jodo mas
+03:28:19	(Tutora)Gonzalez Ayelen:	si orne obvio decime
+03:28:51	Ornella Sablic:	Keep yourself alive de Queen
+03:30:08	Ornella Sablic:	gracias genia
+03:33:33	Ornella Sablic:	hermoso <3
+03:33:38	Nicolás Guzmán:	podrias poner wecare a lot de faith no more?
+03:33:44	Nicolás Guzmán:	porfass
+03:33:52	Nicolás Guzmán:	jajaja
+03:34:17	(Tutora)Gonzalez Ayelen:	Ese?
+03:34:21	Nicolás Guzmán:	si
+03:34:26	Nicolás Guzmán:	graciasss<3
+03:37:01	Pablo Adorno:	DJ Aye 🤩
+03:38:51	Pablo Adorno:	cualquier cosa menos Arjona gracias
+03:38:56	Pablo Adorno:	🤣
+03:39:03	Diego Canseco:	ehhh como me van a cortar el tema de metallica
+03:39:07	Diego Canseco:	no se escucha
+03:39:17	(Tutora)Gonzalez Ayelen:	no?
+03:39:23	Diego Canseco:	se entre corta
+03:39:29	Ornella Sablic:	si se corta
+03:39:41	(Tutora)Gonzalez Ayelen:	Acá mi internet anda bien
+03:39:50	Ornella Sablic:	ahora si se escucha
+03:40:53	David Pérez Garcia:	si
+03:40:55	Juan Montivero:	sisi
+03:40:56	Ernesto Mendez:	no
+03:40:58	Alex Diego Alzú:	si
+03:41:00	MARIA DE LOS ANGELES LICUDIS:	si si
+03:41:00	Osvaldo Carrizo:	profe me retiro, no tengo muchos datos
+03:41:02	Osvaldo Carrizo:	disculpe
+03:41:09	Marcos Gasiorowski:	rick and morty
+03:41:11	Diego Canseco:	si las vieron van por el buen camino del nerd
+03:41:59	Ornella Sablic:	unir ramas
+03:43:52	(Tutora)Gonzalez Ayelen:	Lu yo voy a preparar un videito para mostrar el paso de la instalación en mac, como refuerzo. Hoy no pude llegue a armar para la clase, aun sigo sin agua 🙁🙁
+03:44:09	Juan Montivero:	initialized antes
+03:44:12	Pablo Adorno:	uh Aye
+03:44:13	Mariano Agustín Parga:	Initialized
+03:44:13	Juan Montivero:	ahora reinitialized
+03:46:13	Diego Canseco:	dev
+03:46:15	Pablo Adorno:	Tutorial para instalar Git en Machttps://youtu.be/0elQRkxyQYs
+03:47:34	Ornella Sablic:	osea cambiaste de rama?
+03:47:48	Ornella Sablic:	ah ok
+03:51:42	Ornella Sablic:	cambiar de rama
+03:51:47	Ernesto Mendez:	cambiar de rama
+03:51:50	Johanna Padilla:	volver a master
+03:51:54	Ernesto Baldovino:	git checkout master
+03:52:01	Marcos Gasiorowski:	pegarle un cabezazo al teclado
+03:52:05	Ernesto Mendez:	jajajaj
+03:52:09	Ornella Sablic:	jajajaj
+03:52:18	Ernesto Mendez:	messirve git. pero lo odio
+03:52:21	David Pérez Garcia:	ósea git seria como un escritorio donde ponemos todos nuestro trabajo, que el trabajo serian los HTML
+03:53:13	Marcos Gasiorowski:	toca ver de nuevo la clase, no estoy con todas las luces hoy
+03:53:24	Manuel Torres:	esta bueno para probar cosas sin romper todo el codigo
+03:53:27	Diego Canseco:	es un repositorio, pero que mantiene versionados y al separarlo en brunch trabajas en uno y el otro lo actualizas cuando ves todo bien
+03:53:59	MARIA DE LOS ANGELES LICUDIS:	también se ven los cambios de css?
+03:54:16	(Tutora)Gonzalez Ayelen:	Git es un sistema de control de versiones distribuido, lo que significa que un clon local del proyecto es un repositorio de control de versiones completo. Estos repositorios locales plenamente funcionales permiten trabajar sin conexión o de forma remota con facilidad.
+03:54:48	MARIA DE LOS ANGELES LICUDIS:	bien, gracias
+03:54:55	Pablo Adorno:	grax aye
+03:55:05	Manuel Torres:	los branch donde quedan alojados? en la pc o estan subidos en algun lado?
+03:55:09	(Tutora)Gonzalez Ayelen:	Git es una herramienta que realiza una función del control de versiones de código de forma distribuida, de la que destacamos varias características: Es muy potente. diseñada por Linus Torvalds. No depende de un repositorio central
+03:55:58	(Tutora)Gonzalez Ayelen:	Como funciona las Ramas o Branches ? En la actualidad las Ramas son usadas con el repositorio Github que es en donde se almacenan los archivos de un determinado proyecto, estos pueden guardarse de manera Pública o Privada, Github almacena un historial de cambios que se lleven a cabo en el proyecto
+03:56:19	Manuel Torres:	gracias!
+03:56:23	Diego Canseco:	por el momento te quedan en la pc hasta que los subas (por ejemplo a GitHub)
+03:56:33	Ornella Sablic:	pisaría todo?
+03:56:36	Ernesto Mendez:	ahi es cuando la cagas?
+03:56:43	Ornella Sablic:	la rama section
+03:56:52	Ornella Sablic:	claro
+03:57:54	Diego Canseco:	la podes cagar, pero al tener distintos Branch y el tema de los versionados, tenés más chances de no cagarla que localmente en una sola carpeta
+03:58:12	David Pérez Garcia:	aquí no existe el crt z
+03:58:33	Mauricio Atadia:	Una vez que haces un merge no podes volver para atrás no?
+03:59:01	Lautaro Rodriguez Loiza:	osea hay que hacer merge desde la principal para fucionar todo?
+03:59:28	Ornella Sablic:	si
+03:59:56	Mauricio Atadia:	si se entiende
+04:00:08	Lautaro Rodriguez Loiza:	perfecto
+04:00:16	Ernesto Mendez:	Cuando haces un merge la rama queda o se borra
+04:01:32	Ernesto Mendez:	Perfecto- chas gracias
+04:01:48	Lautaro Rodriguez Loiza:	mi duda es, si borras la cámara de visual queda igual porque ya hiciste el merge?
+04:01:54	Diego Canseco:	la rama queda
+04:02:20	Lautaro Rodriguez Loiza:	oka
+04:03:28	Alex Diego Alzú:	si
+04:03:29	Ernesto Mendez:	si
+04:03:31	Ornella Sablic:	si
+04:03:31	Brian Castaño:	si
+04:03:31	Jacobo Tomas Lerner Rojas:	si
+04:03:33	Johanna Padilla:	si si
+04:03:35	Lucas Fuertes Ramos:	se entendio perfecto
+04:03:37	Marcos Gasiorowski:	no mientas tinto
+04:03:40	Esteban Gonzalez Dumrauf:	clarisimo
+04:03:43	Ernesto Mendez:	jajajaa
+04:03:45	David Pérez Garcia:	si, solo seria repasar los codigos
+04:03:47	Marcos Gasiorowski:	xd
+04:03:50	Marcos Gasiorowski:	jajaj
+04:03:51	MARIA DE LOS ANGELES LICUDIS:	voy a ver el video 7 veces más
+04:04:24	Romina Chena:	Este doc nos compartis Lu?
+04:04:36	Brian Castaño:	si
+04:04:38	H. Alejandro Menzi:	sisi, está
+04:04:38	Ornella Sablic:	si
+04:04:39	Profe Lu❤:	https://docs.google.com/document/d/1vyZE8hkxcK734haL6TQ-xOA_FUN14V1vkPcps0gkZyE/edit?usp=sharing
+04:05:09	(Tutora)Gonzalez Ayelen:	ya esta en la plataforma
+04:05:35	David Pérez Garcia:	eliminando la evidencia
+04:05:56	Ernesto Mendez:	shit + del borra sin pasar por la papelera
+04:06:17	Pablo Adorno:	que loco xq se guarda como .bin
+04:06:36	Ernesto Mendez:	re toxica la carpeta
+04:07:37	Nehuen Garcia:	https://learngitbranching.js.org/?locale=es_ES
+04:07:41	Luciano Fonseca:	:C
+04:07:43	Nehuen Garcia:	aca van a prender git bien
+04:07:58	Ornella Sablic:	hablando de cursos Lu, me quise cambiar de comisión para JS pero ya no esta u.u
+04:07:59	Pablo Adorno:	buena gracias
+04:08:09	Ornella Sablic:	ya no esta la tuya
+04:08:12	Pablo Adorno:	dijo que iba a hablar con la compañera
+04:08:15	Johanna Padilla:	Me paso lo mismo Orne
+04:08:20	Ernesto Mendez:	2/02
+04:09:03	Ornella Sablic:	si por favor
+04:09:12	Martin Fueyo:	ahaha justo la mia termina en 5 u.u
+04:09:27	Ornella Sablic:	seguimos de largo jaja
+04:09:30	Mauricio Atadia:	el problema es que no la vemos
+04:09:34	H. Alejandro Menzi:	Orne y yo creo que estamos en la 51115 y empieza el mismo horario, pero no nos deja hacer el cambio
+04:09:35	Ornella Sablic:	claro
+04:09:59	Johanna Padilla:	Yo quede en la comisión 39450
+04:10:00	Mauricio Atadia:	dale joya!
+04:10:01	Pablo Adorno:	me da ansiedad ese chat 🙈
+04:10:11	Johanna Padilla:	Pero quiero ir a la tuya
+04:10:21	Ernesto Mendez:	Los dejo. Que tengas unas felices fiestas y si manejan no tomen!
+04:10:29	(Tutora)Gonzalez Ayelen:	ya tambien me anoto para ese comision entonces todos van yo tambien
+04:10:31	Ornella Sablic:	gracias Lu
+04:10:31	Pablo Adorno:	ídem ernest
+04:10:39	Jacobo Tomas Lerner Rojas:	profe  backend no das clase?
+04:10:55	Mauricio Atadia:	Muchas Felicidades a Todos!
+04:11:01	Lucas Fuertes Ramos:	feliz navidad y año nuevo a todos!
+04:11:09	Marcos Gasiorowski:	buenas vacaciones Lu, descansa
+04:11:13	Jacobo Tomas Lerner Rojas:	felices fiestass
+04:11:13	Johanna Padilla:	Saludos a todos, feliz navidad y año nuevo  Lu y para todos
+04:11:13	Tomás Alós:	Nos vemos y felices fiestas profe y compas!!!
+04:11:14	Christian Pereyra:	buenísimo, felices fiestas a todos. Pasenla bien
+04:11:14	Lucas Fuertes Ramos:	🥳
+04:11:18	Diego Canseco:	tranquilo nada (?)
+04:11:18	David Pérez Garcia:	felices fiestas !!!
+04:11:19	MARIA DE LOS ANGELES LICUDIS:	FELICES FIESTASSSSSS
+04:11:20	Martin Fueyo:	Feliz Navida y Feliz año nuevo !!!!!!
+04:11:21	Pablo Adorno:	Felicidades! 🥰
+04:11:22	Esteban Camacho:	Gracias, igualmente.
+04:11:25	Marcos Gasiorowski:	anda a campear la casa de Messi
+04:11:26	Mauricio Atadia:	Buenas vacaciones Lu!
+04:11:27	Mariana Alvizúa:	Felices fiestas!
+04:11:28	Lucas Fuertes Ramos:	Nos vemos!
+04:11:28	H. Alejandro Menzi:	Felicidades para todooos!!! :)
+04:11:32	Nicolas Cisnero:	felicidades para todos!!!
+04:11:32	Diego Canseco:	felices fiesta
+04:11:32	Brian Castaño:	felices fiestas
+04:11:32	(Tutora)Gonzalez Ayelen:	Muchas gracias por todo
+04:11:33	Annery Barreto:	Feliz navidad! Feliz año nuevo!
+04:11:34	Pablo Adorno:	Lu😍
+04:11:36	Christian Pereyra:	Y TENGAN UN BUEN COMIENZO DE AÑO
+04:11:38	Micaela Garcia Breitenberger:	felices fiestas!!
+04:11:42	(Tutora) Carolina Amoia:	felicidades
+04:11:43	Juan Facundo Alos:	Gracias, felicidades!
+04:11:43	Manuel González Alayes:	Felices Fiestas!!!
+04:11:43	fabian romero:	felices fiestas para todos
+04:11:43	Manuel Torres:	Felices fiestas a todos!
+04:11:46	Fermín Cossalter:	chauuuu
