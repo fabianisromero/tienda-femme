@@ -108,25 +108,24 @@ h1{
     font-size: 60px;
     text-align: center;
 }
-img{
+.productos{
     display: grid;
-    flex-direction: row;
-    flex-wrap: wrap;
-    border-radius: 20px;
-    border: 5px solid grey;
+    justify-items: center;
 }
-div img{
+img{
     width: 320px;
     height: 300px;
-    margin: 80px;
+    margin-bottom: 0;
     flex-direction: column;
+    border: 5px solid grey;
 }
-section{
-    margin: 40px;
+.imgcostura{
     display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
     justify-content: center;
+    justify-content: space-evenly;
+}
+.btn{
+    background-color: gray;
 }
 h1{
     grid-area: h1;
@@ -208,4 +207,13 @@ img{
         "img img img"
         "img img img";
     }
+    @media (min-width: 1600px){
+        .productos{
+            margin: 0;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            grid-template-areas:
+            "img img img img"
+            "img img img img"
+            "img img img img";
+        }
 }
