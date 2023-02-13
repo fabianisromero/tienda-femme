@@ -20,6 +20,12 @@ main{
     display: flex;
     padding: 5px;
 }
+footer{
+    background: linear-gradient( rgb(194, 194, 186) 1%, rgb(220, 226, 233) 1%, rgb(153, 152, 155) 1%, rgba(155, 155, 151, 0.455) 1%);
+    display: flex;
+    padding: 5px;
+    margin-top: 20px;
+}
 .icono:hover{
 transform: scale(1.2);
 transition-property: all;
@@ -142,6 +148,12 @@ p{
 .descripcion{
     grid-area: descripcion;
 }
+.logo{
+    grid-area: logo;
+}
+img{
+    grid-area: img;
+}
 .p:hover{
     transform: scale(1.2);
     transition-property: all;
@@ -182,13 +194,7 @@ p{
     transition-property: all;
     transition-duration: 2s;
 }
-.logo{
-    grid-area: logo;
-}
-img{
-    grid-area: img;
-}
-@media (min-width: 1024px){
+@media (min-width: 768px){
     .productos{
         margin: 0;
         grid-template-columns: 1fr 1fr;
@@ -198,7 +204,7 @@ img{
         "img img";
     }
 }
-@media (min-width: 1200px){
+@media (min-width: 1024px){
     .productos{
         margin: 0;
         grid-template-columns: 1fr 1fr 1fr;
@@ -207,6 +213,7 @@ img{
         "img img img"
         "img img img";
     }
+}
     @media (min-width: 1600px){
         .productos{
             margin: 0;
